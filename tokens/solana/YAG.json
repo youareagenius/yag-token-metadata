@@ -1,0 +1,14 @@
+{
+  "name": "You Are a Genius",
+  "symbol": "YAG",
+  "description": "YAG is a Solana-based token to empower self-confidence through entertainment, creativity, and community.",
+  "image": "https://i.imgur.com/ZB8TmRK.png",
+  "decimals": 9,
+  "mint": "HDKdfhoAbSWK5zbqhjGfsCEPpmfLicpeFan2ejnGzEaN",
+  "tags": ["utility", "web3", "community"],
+  "extensions": {
+    "website": "https://yag-coin.com",
+    "twitter": "https://x.com/tupper_yag",
+    "telegram": "https://t.me/yag_crew_crypto"
+  }
+}
