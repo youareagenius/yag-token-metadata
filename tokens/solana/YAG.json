@@ -1,1 +1,8 @@
-{"token_data": "YAG token metadata"}
+{
+  "name": "YAG Token",
+  "symbol": "YAG",
+  "decimals": 9,
+  "totalSupply": 300000000,
+  "logoURI": "https://i.imgur.com/ZB8TmRK.png",
+  "description": "YAG Token is designed to boost self-esteem and confidence in Web3 ecosystem."
+}
