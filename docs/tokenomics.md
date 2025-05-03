@@ -1,0 +1,1 @@
+Content about tokenomics, distribution, and airdrop rules.
